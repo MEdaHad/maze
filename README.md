@@ -1,6 +1,8 @@
 # maze
 
 Welcome to the Building. 
+First Download the repo or Clone it using git clone https://github.com/MEdaHad/maze
+
 your task is to find the treasure.
 this treasure is within the building Room/Rooms. all the room are unlocked for simplicity. 
 but you dont know which room it is in, and where the rooms are located Right? some Rooms can be easily found and some can not, 
