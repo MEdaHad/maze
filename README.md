@@ -1,4 +1,4 @@
-# maze
+# Maze 
 
 Welcome to the Building.
 
