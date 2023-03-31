@@ -1,6 +1,7 @@
 # maze
 
-Welcome to the Building. 
+Welcome to the Building.
+
 First Download the repo or Clone it using git clone https://github.com/MEdaHad/maze
 
 your task is to find the treasure.
